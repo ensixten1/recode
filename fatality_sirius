@@ -12,13 +12,6 @@ hwid = SFcyMDE2MzIwOTk0NjZJRA==
 hwid = SFcyMTMyMDYxMjUxMDhJRA==
 }
 
-["branza"] = {
-hwid = SFcyMjAwNjI0MTM1OTRJRA==
-
-
-
-
-
 ["nayenne"] = {
 hwid = SFcxNTI1NDU5NTcxMzhJRA==
 }
@@ -35,22 +28,13 @@ hwid = SFcyMTMyMDYxMjUxMDhJRA==
 
 ["branza"] = {
 hwid = SFcyMjAwNjI0MTM1OTRJRA==
-
-
-
-
-
-
+}
 ["kretowiec"] = {
     "hwid" = "SFc1ODE0NzQwMTIwMDZJRA=="
 }
-
 ["sir_winston_churchil"] = {
 hwid = SFcxNTk4MzI2NDU2MzBJRA==
 }
-
 ["corsa"] = {
 hwid = SFczMDE0MzQwNzk0MjJJRA==
 }
-"hwid" = "new_hwid_here"
-"hwid" = "GZUZBEST"
