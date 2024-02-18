@@ -62,9 +62,7 @@ hwid = SFcyODY3Njk2MTQ1OThJRA==
 ["corsa"] = {
 hwid = SFczMDE0MzQwNzk0MjJJRA==
 }
-["22"] = {
-    "hwid" = "hsh"
-}
+"hwid" = "new_hwid_here"
 ["34ucw1556"] = {
     "hwid" = "SFc1Mjk4OTU0NjA0OTBJRA=="
 }
